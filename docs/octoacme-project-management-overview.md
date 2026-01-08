@@ -17,7 +17,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- Supporting Specialists: UX/UI Designers, DevOps Engineers, QA Automation Engineers, Business Analysts, and Customer Success/Support provide specialized expertise.
+- Supporting Specialists: UX/UI Designers, DevOps Engineers, QA Automation Engineers, Business Analysts, and Customer Success/Support Specialists provide specialized expertise.
 - Stakeholders: provide inputs and approvals.
 
 For detailed role definitions and collaboration patterns, see [Roles and Personas](octoacme-roles-and-personas.md).
