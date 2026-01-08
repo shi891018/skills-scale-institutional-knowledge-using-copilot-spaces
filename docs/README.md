@@ -20,11 +20,11 @@ When features are ready, our **release and deployment** process ensures safe pro
 
 ### Personas and Roles
 
-Our project teams are built around three core personas, each with distinct responsibilities and goals. **Project Managers** coordinate delivery activities, manage schedules and risks, facilitate meetings, and ensure consistent documentation and stakeholder communication. Their primary goal is delivering projects on time and within scope while maintaining transparency.
+Our project teams are built around diverse, specialized roles that work together to deliver value. Core delivery roles include **Project Managers** who coordinate delivery activities, manage schedules and risks, and ensure stakeholder communication; **Product Managers** who define what should be built and prioritize the backlog; and **Developers** who design, build, and deliver software components.
 
-**Product Managers** define what should be built to deliver customer and business value. They own the product vision, prioritize the backlog based on data and user research, collaborate on trade-offs, and measure outcomes through success metrics. Their focus is maximizing customer impact and ensuring product-market fit.
+Supporting specialists ensure quality and customer satisfaction throughout the lifecycle. **UX/UI Designers** integrate user needs and accessibility into design and functionality. **DevOps Engineers** own deployment pipelines, CI/CD, and system observability. **QA Automation Engineers** build and maintain automated test frameworks. **Business Analysts** convert stakeholder requirements into actionable specifications. **Customer Success/Support Specialists** act as the voice of the customer post-launch.
 
-**Developers** design, build, test, and deliver software components. They implement features meeting acceptance criteria, write tests and documentation, participate in code reviews, assist in planning and estimation, and help identify technical risks. Their objectives center on delivering reliable, maintainable code while reducing cycle time from idea to production.
+For detailed role definitions, responsibilities, and interaction patterns, see the [Roles and Personas](octoacme-roles-and-personas.md) document.
 
 ### Communication Strategies and Cadence
 
@@ -45,7 +45,7 @@ Our complete project management framework is documented across the following gui
 | Document | Description |
 |----------|-------------|
 | [Project Management Overview](octoacme-project-management-overview.md) | High-level introduction to OctoAcme's approach, principles, roles, and lifecycle |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Detailed definitions of Developer, Product Manager, and Project Manager roles |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Comprehensive definitions of all project roles including core delivery and supporting specialist personas |
 | [Project Initiation](octoacme-project-initiation.md) | Guide for validating ideas, creating project one-pagers, and stakeholder alignment |
 | [Project Planning](octoacme-project-planning.md) | Process for creating actionable plans, prioritized backlogs, and release timelines |
 | [Execution and Tracking](octoacme-execution-and-tracking.md) | Day-to-day workflows, team rhythms, PR processes, and quality practices |
